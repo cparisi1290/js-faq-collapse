@@ -13,3 +13,9 @@ h1 {
   margin: 50px 0 30px;
   text-align: center;
 }
+
+.faq-container {
+  max-width: 600px;
+  /* to keep main container in middle of max-width */
+  margin: 0 auto;
+}
